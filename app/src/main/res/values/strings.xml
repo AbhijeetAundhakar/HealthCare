@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HealthCare</string>
+    <string name="appLoginName">24x7_HealthCare</string>
+    <string name="login">Login</string>
+    <string name="register">Register for new user</string>
+    <string name="signIn">Already have an account? Sign In</string>
+    <string name="registerButton">Register</string>
+    <string name="lottieAnim">Welcome to Healthcare Center</string>
+</resources>
